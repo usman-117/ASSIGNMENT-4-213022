@@ -1,0 +1,15 @@
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\Basic_project.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\MainWindow.g.cs
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\App.g.cs
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\Basic_project_MarkupCompile.cache
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\Basic_project_MarkupCompile.lref
+C:\Users\Hp\source\repos\Basic_project\Basic_project\bin\Debug\Basic_project.exe.config
+C:\Users\Hp\source\repos\Basic_project\Basic_project\bin\Debug\Basic_project.exe
+C:\Users\Hp\source\repos\Basic_project\Basic_project\bin\Debug\Basic_project.pdb
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\MainWindow.baml
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\Basic_project.g.resources
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\Basic_project.Properties.Resources.resources
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\Basic_project.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\Basic_project.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\Basic_project.exe
+C:\Users\Hp\source\repos\Basic_project\Basic_project\obj\Debug\Basic_project.pdb

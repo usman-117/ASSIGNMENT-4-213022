@@ -1,0 +1,25 @@
+﻿<Window x:Class="Basic_project.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Basic_project"
+        mc:Ignorable="d"
+        Title="WPF One way Data Binding" Height="450" Width="800">
+    <Grid>
+        <Grid RenderTransformOrigin="0.497,0.386">
+            <Label Name="namelabel" HorizontalAlignment="Left" Margin="69,64,0,0" VerticalAlignment="Top">Name:</Label>
+
+            <TextBox Name="Left" Margin="145,72,535,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" 
+        Text="{Binding Name ,Mode =OneWay}" />
+
+            <Label Name="Age" HorizontalAlignment="Left" Margin="74,109,0,0" VerticalAlignment="Top" >Age:</Label>
+
+            <TextBox HorizontalAlignment="Left" Margin="145,109,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"
+                  Text="{Binding Age ,Mode =OneWay}"/>
+            <StackPanel RenderTransformOrigin="0.445,0.288" Margin="0,0,0,10">
+                <Button Content="Button" HorizontalAlignment="Left" Margin="74,156,0,0" VerticalAlignment="Top" Width="142" Click="Button_Click"/>
+            </StackPanel>
+        </Grid>
+    </Grid>
+</Window>
